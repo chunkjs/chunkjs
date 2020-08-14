@@ -8,7 +8,7 @@
 
 <p>Welcome to my GitHub profile.  Here I will try to add personal projects that I do to have fun.<p/>
 
-![My Octocat](myoctocat.png)
+![My Octocat](random.png)
 
 
 
