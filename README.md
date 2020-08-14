@@ -8,7 +8,7 @@
 
 <p>Welcome to my GitHub profile.  Here I will try to add personal projects that I do to have fun.<p/>
 
-![My Octocat](william_omar.png)
+![My Octocat](https://raw.githubusercontent.com/chunkjs/chunkjs/master/william_omar.png)
 
 
 
