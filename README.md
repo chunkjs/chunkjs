@@ -1,5 +1,4 @@
 
-
 <body>
 
 
@@ -8,11 +7,13 @@
 
 <h3>Welcome to my GitHub profile.<h3/>
   
-  
-👩🏻‍🏫 I’m currently working as a Software Engineer using React
-🦋 I’m currently learning CSS & Accessability
-🐛 I’m looking for help with tech interviews
+  <ul>
+    <li>👩🏻‍🏫 I’m currently working as a Software Engineer using React </li>
+    <li>🦋 I’m currently learning CSS & Accessability </li>
+   <li>🐛 I’m looking for help with tech interviews </li>
 
+  </ul>
+  
 ![My Octocat](https://raw.githubusercontent.com/chunkjs/chunkjs/master/gopher-octocat-react.png)
 
 
