@@ -14,7 +14,7 @@
 
   </ul>
   
-![My Octocat](https://raw.githubusercontent.com/chunkjs/chunkjs/master/gopher-octocat-react.png)
+![My Octocat](https://raw.githubusercontent.com/chunkjs/chunkjs/master/valerie.png)
 
 
 
