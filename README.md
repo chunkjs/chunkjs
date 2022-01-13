@@ -6,6 +6,7 @@
 <h2 > <strong>Hello World! :earth_africa: </strong></h2>
 
 <h3>Welcome to my GitHub profile.<h3/>
+
   
   <ul>
     <li>👩🏻‍🏫 I’m currently working as a Software Engineer using React </li>
@@ -35,3 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
+  ![](https://komarev.com/ghpvc/?username=chunkjs&color=f7b9b9)
