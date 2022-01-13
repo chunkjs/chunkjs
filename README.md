@@ -3,7 +3,7 @@
 
 
 
-<h2 > <strong>Hello World! :earth_africa: </strong></h2>
+<h2 > <strong>Hola :earth_africa: </strong></h2>
 
 <h3>Welcome to my GitHub profile.<h3/>
 
