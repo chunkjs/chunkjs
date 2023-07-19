@@ -11,7 +11,6 @@
   <ul>
     <li>👩🏻‍🏫 I’m currently working as a Software Engineer using React </li>
     <li>🦋 I’m currently learning CSS & Accessability </li>
-   <li>🐛 I’m looking for help with tech interviews </li>
 
   </ul>
   
